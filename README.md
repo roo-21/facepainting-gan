@@ -1,3 +1,3 @@
 # facepainting-gan
-Using GAN to generate artistic faces. Currently working on DCGAN model.
+Using vanilla GAN and DCGAN to generate artistic faces.
 Dataset source: https://github.com/asahi417/wikiart-image-dataset
